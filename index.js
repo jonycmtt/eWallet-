@@ -1,4 +1,4 @@
-//UI
+//UI Ewallet
 document.querySelector('#ewallet-form').addEventListener('submit', function(e){
     e.preventDefault();
     // console.log(e)
