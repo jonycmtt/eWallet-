@@ -1,7 +1,7 @@
 # eWallet-
 ## <p> This is an eWallet UI project. Can be used for a business. It can keep a person's daily income, weekly income, monthly income and where and how much money is spent.</p>
 
-### Live Link : https://profind-github.netlify.app/
+
 
 ## Use to...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
